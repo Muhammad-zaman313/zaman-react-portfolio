@@ -1,48 +1,18 @@
-// import CursorEffect from "./Conponents/CursorEffect";
-// import Navbar from "./Conponents/Navbar";
-// import About from "./Conponents/About";
-// import Footer from "./Conponents/Footer";
-// import Education from "./Conponents/Eduaction";
-// import Home from "./Conponents/Home";
-// import Skills from "./Conponents/Skills";
-// import Projects from "./Conponents/Projects";
-// import Contact from "./Conponents/Contact";
-// import ScrollToTop from "./Conponents/ScrollToTop";
-
-// function App() {
-//   return (
-//     <div className="App">
-//       <CursorEffect />
-//       <Navbar />
-//       <Home />
-//       <About />
-//       <Education />
-//       <Skills />
-//       <Projects />
-//       <Contact />
-//       <ScrollToTop />
-//       <Footer />
-//     </div>
-//   );
-// }
-
-// export default App;
-
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 // Import your components
-import CursorEffect from "./Conponents/CursorEffect";
-import Navbar from "./Conponents/Navbar";
-import About from "./Conponents/About";
-import Footer from "./Conponents/Footer";
-import Education from "./Conponents/Eduaction";
-import Home from "./Conponents/Home";
-import Skills from "./Conponents/Skills";
-import Projects from "./Conponents/Projects";
-import Contact from "./Conponents/Contact";
-import ScrollToTop from "./Conponents/ScrollToTop";
-import Resume from "./Conponents/Resume";
+import CursorEffect from "./Components/CursorEffect";
+import Navbar from "./Components/Navbar";
+import About from "./Components/About";
+import Footer from "./Components/Footer";
+import Education from "./Components/Eduaction";
+import Home from "./Components/Home";
+import Skills from "./Components/Skills";
+import Projects from "./Components/Projects";
+import Contact from "./Components/Contact";
+import ScrollToTop from "./Components/ScrollToTop";
+import Resume from "./Components/Resume";
 function App() {
   return (
     <Router>
