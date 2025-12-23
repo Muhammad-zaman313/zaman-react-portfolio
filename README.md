@@ -1,3 +1,18 @@
+# MrZaman Portfolio 🚀
+
+## Tech Stack
+- React
+- Vite
+- CSS
+
+## Features
+- Responsive Design
+- Projects Showcase
+- Clean UI
+
+## Live Demo
+Coming Soon
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
